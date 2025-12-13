@@ -2,6 +2,9 @@
 
 A thrilling racing game where you drive on the road, collect coins, and avoid enemies!
 
+## Live Demo 🌐
+Play the game online: [https://iam269.github.io/3D-Car-Drive/](https://iam269.github.io/3D-Car-Drive/)
+
 ## Features 🎮
 - 🚗 Smooth car controls with arrow keys
 - 🪙 Collect coins to increase your score
